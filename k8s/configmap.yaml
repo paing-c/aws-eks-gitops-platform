@@ -29,7 +29,7 @@ data:
     </head>
     <body>
       <main>
-        <p class="version">Version: v1.0.0</p>
+        <p class="version">Version: v2.0.0</p>
         <h1>Amazon EKS GitOps Platform</h1>
         <p>Terraform + Amazon EKS + ArgoCD</p>
       </main>
